@@ -9,7 +9,7 @@ public class Main {
         try {
             Scanner in = new Scanner(System.in);
             int x = in.nextInt();
-            var ime = "muhamed";
+            var ime = "muhamedOmerovic";
              System.out.println("vrijednost je "+x + ime);
         }catch(InputMismatchException e) {
             System.out.println("niste unijeli broj");
